@@ -19,5 +19,7 @@ public:
 
     void setMarca(const std::string& marca);
     void setColor(const std::string& color);
+
+    void mostrarOutfit() const;
 };
 #endif
